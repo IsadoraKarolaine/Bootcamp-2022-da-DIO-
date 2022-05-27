@@ -8,9 +8,11 @@ Plano de estudos para o bootcamp da DIO HTML/CSS3, Js, ReactJS, SQL, JAVA, Sprin
 
 
 ##
+
  <img src="./assents/css.ico" width="40" height="40">
  **1. CSS**
 - [x] HTML/CSS3 
+
 ##
 
 <img src="./assents/javascript.ico" width="40" height="40"> **2. Js**
@@ -25,6 +27,7 @@ Plano de estudos para o bootcamp da DIO HTML/CSS3, Js, ReactJS, SQL, JAVA, Sprin
 - [ ] Manupulando a D.O.M com Js
 - [ ] Desafios TQI-JavaScript
 - [ ] Desenvolvendo um jogo da memória
+
 ##
 
 <img src="./assents/react-js.ico" width="40" height="40"> **3. ReactJS**
@@ -34,11 +37,13 @@ Plano de estudos para o bootcamp da DIO HTML/CSS3, Js, ReactJS, SQL, JAVA, Sprin
 - [ ] Desenvolvimento de aplicações para internet com ReactJS
 - [ ] Práticas avançadas em projetos com ReactJS
 - [ ] Criando um front-end totalmente componentizado na prática com React
+
 ##
 
 <img src="./assents/mysql.ico" width="40" height="40"> **4. SQL**
 - [ ] MySql-Trabalhando com as suas primeiras tabelas
 - [ ] MySql- Consultas com Join
+
 ##
 
 <img src="./assents/java.ico" width="40" height="40"> **5. JAVA**
@@ -56,6 +61,7 @@ Plano de estudos para o bootcamp da DIO HTML/CSS3, Js, ReactJS, SQL, JAVA, Sprin
 - [ ] JPA com Hibernate
 - [ ] Banco digital com JAVA e Orientação a objetos
 - [ ] Testes Unitários com JUnit
+
 ##
 
 **6. Spring Framework**
@@ -64,6 +70,7 @@ Plano de estudos para o bootcamp da DIO HTML/CSS3, Js, ReactJS, SQL, JAVA, Sprin
 - [ ] Padrões de Projetos na Prática com JAVA
 - [ ] ADD segurança a uma API REST com Spring Security
 - [ ] Testes unitários para validar uma API REST de gerenciamento de estoque de cerveja
+
 ##
 
 **7. QA**
