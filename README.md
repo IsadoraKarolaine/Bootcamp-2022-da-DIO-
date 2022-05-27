@@ -2,25 +2,25 @@
 
 Plano de estudos para o bootcamp da DIO HTML/CSS3, Js, ReactJS, SQL, JAVA, Spring Framework, QA:
 
--[x] HTML/CSS3
+- [x] HTML/CSS3
 
 1.Js
 
--[ ] Introdução ao Js
+- [ ] Introdução ao Js
 
--[ ] Sintaxe básica em Js
+- [ ] Sintaxe básica em Js
 
--[ ] Operadores
+- [ ] Operadores
 
--[ ] Variáveis e tipos
+- [ ] Variáveis e tipos
 
--[ ] Funções
+- [ ] Funções
 
--[ ] Debugging e error handling
+- [ ] Debugging e error handling
 
--[ ] Js Assíncrono
+- [ ] Js Assíncrono
 
--[ ] Orientação a objetos
+- [ ] Orientação a objetos
 
--[ ] Manupulando a D.O.M com Js
+- [ ] Manupulando a D.O.M com Js
 
