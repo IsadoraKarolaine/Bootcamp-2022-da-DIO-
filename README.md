@@ -6,12 +6,13 @@ Bootcamp-2022 -> -DIO- 👩‍💻
 ##Plano de estudos para o bootcamp da DIO HTML/CSS3, Js, ReactJS, SQL, JAVA, Spring Framework, QA:
 </h4>
 
- <img src="./assents/css.ico"><img src="./assents/javascript.ico"><img src="./assents/java.ico"><img src="./assents/mysql.ico">
-##
 
+##
+ <img src="./assents/css.ico" width="40" height="40">
+ 
 - [x] HTML/CSS3 
 
-**1. Js**
+<img src="./assents/javascript.ico" width="40" height="40"> **1. Js**
 - [ ] Introdução ao Js
 - [ ] Sintaxe básica em Js
 - [ ] Operadores
@@ -24,7 +25,7 @@ Bootcamp-2022 -> -DIO- 👩‍💻
 - [ ] Desafios TQI-JavaScript
 - [ ] Desenvolvendo um jogo da memória
 ##
-**2. ReactJS**
+<img src="./assents/react-js.ico" width="40" height="40"> **2. ReactJS**
 - [ ] Introdução ao ReactJS
 - [ ] introdução aos React Hooks
 - [ ] Trabalhando com States & Effects no ReactJs
@@ -32,11 +33,11 @@ Bootcamp-2022 -> -DIO- 👩‍💻
 - [ ] Práticas avançadas em projetos com ReactJS
 - [ ] Criando um front-end totalmente componentizado na prática com React
 ##
-**3. SQL**
+<img src="./assents/mysql.ico" width="40" height="40"> **3. SQL**
 - [ ] MySql-Trabalhando com as suas primeiras tabelas
 - [ ] MySql- Consultas com Join
 ##
-**4. JAVA**
+<img src="./assents/java.ico" width="40" height="40"> **4. JAVA**
 - [ ] Variáveis, Tipos de Dados e Operadores Matemáticos em JAVA
 - [ ] Métodos JAVA
 - [ ] Lógica Condicional e Controle de Fluxos em JAVA
