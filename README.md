@@ -2,15 +2,17 @@
 <h1 align="center">
 Bootcamp-2022 -> -DIO- 👩‍💻
 </h1>
+
 <h4 align="center">
 Plano de estudos para o bootcamp da DIO HTML/CSS3, Js, ReactJS, SQL, JAVA, Spring Framework, QA:
 </h4>
 
-
 ##
 
  <img src="./assents/css.ico" width="40" height="40">
+ 
  **1. CSS**
+ 
 - [x] HTML/CSS3 
 
 ##
