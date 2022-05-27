@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Bootcamp-2022 -> -DIO- 👩‍💻
+Bootcamp-2022 -DIO- 👩‍💻
 </h1>
 
 <h4 align="center">
