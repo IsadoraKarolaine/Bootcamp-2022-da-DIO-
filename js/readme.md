@@ -1,5 +1,5 @@
 
-<img src="./assents/javascript.ico" width="40" height="40"> **2. Js**
+<img src="../assents/javascript.ico" width="40" height="40"> **2. Js**
 - [ ] Introdução ao Js
 - [ ] Sintaxe básica em Js
 - [ ] Operadores
