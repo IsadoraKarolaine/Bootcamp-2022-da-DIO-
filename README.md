@@ -9,9 +9,9 @@ Plano de estudos para o bootcamp da DIO HTML/CSS3, Js, ReactJS, SQL, JAVA, Sprin
 
 ##
 
- <img src="./assents/css.ico" width="40" height="40">
+
  
- **1. CSS**
+  <img src="./assents/css.ico" width="40" height="40"> **1. CSS**
  
 - [x] HTML/CSS3 
 
