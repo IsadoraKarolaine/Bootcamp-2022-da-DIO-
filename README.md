@@ -18,12 +18,12 @@ Plano de estudos para o bootcamp da DIO HTML/CSS3, Js, ReactJS, SQL, JAVA, Sprin
 ##
 
 <img src="./assets/javascript.ico" width="40" height="40"> **2. Js**
-- [ ] Introdução ao Js
-- [ ] Sintaxe básica em Js
-- [ ] Operadores
-- [ ] Variáveis e tipos
-- [ ] Funções
-- [ ] Debugging e error handling
+- [x] Introdução ao Js
+- [x] Sintaxe básica em Js
+- [x] Operadores
+- [x] Variáveis e tipos
+- [x] Funções
+- [x] Debugging e error handling
 - [ ] Js Assíncrono
 - [ ] Orientação a objetos
 - [ ] Manupulando a D.O.M com Js
