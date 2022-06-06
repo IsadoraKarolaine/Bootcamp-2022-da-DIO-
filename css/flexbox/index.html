@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamentos display-flex</title>
+    <style>
+        .flex{
+            max-width:300px;
+            padding:10px;
+            border: 2px solid black;
+            display: flex;
+            margin: 20px; 
+        }
+        .item{
+            background-color: aqua;
+            margin:5px;
+        }
+        .flex-container{
+            margin:0;   
+            padding:0;
+            display:flex;
+            list-style: none;
+        }
+        .flex-item{
+            background: red ;
+            line-height: 50px;
+            width:50px;
+            font-size: 20px;
+            color: white;
+            text-align: center;
+            margin:5px;
+        }
+        .row{
+            flex-direction: row;
+        }
+        .row-reverse{
+            flex-direction: row-reverse;
+            
+        }
+        .column{
+            float:left;
+            flex-direction: column;
+
+        }
+        
+        .column-reverse{
+            float: right;
+            flex-direction: column;
+        }
+        /* flex-wrap = é a propriedade que define se os intens devem ou não 
+        quebrar a linha wrap=permite quebrar a linha */
+        
+        .flex-direction{
+            border: 2px solid black;
+            display: flex;
+            margin: 0;
+            padding: 0;
+            
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="flex">
+        <div class="item">item 1</div>
+        <div class="item">item 2</div>
+        <div class="item">item 3</div>
+        </div>
+        <ul class="flex-container row">
+            <li class="flex-item ">1</li>
+            <li class="flex-item">2</li>
+            <li class="flex-item">3</li>
+            <li class="flex-item">4</li>
+            <li class="flex-item">5</li>
+        </ul>
+
+        <ul class="flex-container row-reverse">
+            <li class="flex-item ">1</li>
+            <li class="flex-item">2</li>
+            <li class="flex-item">3</li>
+            <li class="flex-item">4</li>
+            <li class="flex-item">5</li>
+        </ul>
+
+        
+        <ul class="flex-container column">
+            <li class="flex-item ">1</li>
+            <li class="flex-item">2</li>
+            <li class="flex-item">3</li>
+            <li class="flex-item">4</li>
+            <li class="flex-item">5</li>
+        </ul>
+
+             
+        <ul class="flex-container column-reverse">
+            <li class="flex-item ">1</li>
+            <li class="flex-item">2</li>
+            <li class="flex-item">3</li>
+            <li class="flex-item">4</li>
+            <li class="flex-item">5</li>
+        </ul>
+
+        <div class="flex-direction">
+            Lorem ipsum dolor sit amet consectetur 
+            adipisicing elit. Sunt blanditiis quo 
+            nesciunt saepe ea facilis non et sint 
+            quaerat tenetur, maxime autem, 
+            iure ullam nostrum hic optio nam,
+             doloribus unde.
+        </div>
+</body>
+</html>
+
