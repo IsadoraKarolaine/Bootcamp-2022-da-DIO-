@@ -11,19 +11,19 @@ Plano de estudos para o bootcamp da DIO HTML/CSS3, Js, ReactJS, SQL, JAVA, Sprin
 
 
  
-  <img src="./assents/css.ico" width="40" height="40"> **1. CSS**
+  <img src="./assets/css.ico" width="40" height="40"> **1. CSS**
  
 - [x] HTML/CSS3 
 
 ##
 
-<img src="./assents/javascript.ico" width="40" height="40"> **2. Js**
-- [ ] Introdução ao Js
-- [ ] Sintaxe básica em Js
-- [ ] Operadores
-- [ ] Variáveis e tipos
-- [ ] Funções
-- [ ] Debugging e error handling
+<img src="./assets/javascript.ico" width="40" height="40"> **2. Js**
+- [x] Introdução ao Js
+- [x] Sintaxe básica em Js
+- [x] Operadores
+- [x] Variáveis e tipos
+- [x] Funções
+- [x] Debugging e error handling
 - [ ] Js Assíncrono
 - [ ] Orientação a objetos
 - [ ] Manupulando a D.O.M com Js
@@ -32,7 +32,7 @@ Plano de estudos para o bootcamp da DIO HTML/CSS3, Js, ReactJS, SQL, JAVA, Sprin
 
 ##
 
-<img src="./assents/react-js.ico" width="40" height="40"> **3. ReactJS**
+<img src="./assets/react-js.ico" width="40" height="40"> **3. ReactJS**
 - [ ] Introdução ao ReactJS
 - [ ] introdução aos React Hooks
 - [ ] Trabalhando com States & Effects no ReactJs
@@ -42,13 +42,13 @@ Plano de estudos para o bootcamp da DIO HTML/CSS3, Js, ReactJS, SQL, JAVA, Sprin
 
 ##
 
-<img src="./assents/mysql.ico" width="40" height="40"> **4. SQL**
+<img src="./assets/mysql.ico" width="40" height="40"> **4. SQL**
 - [ ] MySql-Trabalhando com as suas primeiras tabelas
 - [ ] MySql- Consultas com Join
 
 ##
 
-<img src="./assents/java.ico" width="40" height="40"> **5. JAVA**
+<img src="./assets/java.ico" width="40" height="40"> **5. JAVA**
 - [ ] Variáveis, Tipos de Dados e Operadores Matemáticos em JAVA
 - [ ] Métodos JAVA
 - [ ] Lógica Condicional e Controle de Fluxos em JAVA
